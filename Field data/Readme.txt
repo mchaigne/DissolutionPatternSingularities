@@ -1,0 +1,3 @@
+The files "StMarcelCaveXYZ1.txt" to "StMarcelCaveXYZ4.txt" are point clouds corresponding to the 3D reconstruction of a wall of the Saint-Marcel cave by photogrammetry.
+These four files were separated only because the file is two heavy to be stored in GitHub, but should be recombined into one single file. 
+They all have three columns, each giving one coordinate: 1st coumn gives x coordinate (horizontal), 2nd column gives y coordinate (vertical), 3rd coumn gives z coordinate (transversal).
